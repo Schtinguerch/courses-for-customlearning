@@ -1,0 +1,76 @@
+<<Course:
+    <Name Редактор>>
+    <LessonList {
+        001.lml
+        002.lml
+        003.lml
+        004.lml
+        005.lml
+        006.lml
+        007.lml
+        008.lml
+        009.lml
+        010.lml
+        011.lml
+        012.lml
+        013.lml
+        014.lml
+        015.lml
+        016.lml
+        017.lml
+        018.lml
+        019.lml
+        020.lml
+        021.lml
+        022.lml
+        023.lml
+        024.lml
+        025.lml
+        026.lml
+        027.lml
+        028.lml
+        029.lml
+        030.lml
+        031.lml
+        032.lml
+        033.lml
+        034.lml
+        035.lml
+        036.lml
+        037.lml
+        038.lml
+        039.lml
+        040.lml
+        041.lml
+        042.lml
+        043.lml
+        044.lml
+        045.lml
+        046.lml
+        047.lml
+        048.lml
+        049.lml
+        050.lml
+        051.lml
+        052.lml
+        053.lml
+        054.lml
+        055.lml
+        056.lml
+        057.lml
+        058.lml
+        059.lml
+        060.lml
+        061.lml
+        062.lml
+        063.lml
+        064.lml
+        065.lml
+    }>>
+:Course>>
+
+<<Author:
+    <Name Лев Шумилов - @Schtinguêrch>>
+    <References {
+    }>>
+:Author>>
